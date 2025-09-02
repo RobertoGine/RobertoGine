@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou o Roberto Giné  
 
-🎓 Formado em **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** no centro Universitário Braz Cubas.  
+🎓 Formado no curso **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** no centro Universitário [Braz Cubas](https://www.brazcubas.edu.br/).  
 📚 Atualmente realizando cursos complementares na [DIO.me](https://www.dio.me/)  
+👩🏻‍🔧/👩🏻‍💻 Atualmente, estou em transição de carreira para a área de Desenvolvimento de Software, buscando oportunidades para aplicar e expandir meus conhecimentos em Python, Django e desenvolvimento de sistemas.  
 💻 Focado em desenvolvimento **Python**, **Django**.  
 ⚡ Interesse em projetos de **sistemas de gestão** e **aplicações web**  
 
@@ -18,7 +19,8 @@
 
 ## 📌 Projetos em Destaque  
 
-- 🏗️ [Gerenciador de Estoque](https://github.com/RobertoGine/gerenciador-de-estoque#) – Sistema de estoque com Django  
+- 🏗️ [Gerenciador de Estoque](https://github.com/RobertoGine/gerenciador-de-estoque#) – Sistema de estoque com Django
+- Este projeto foi desenvolvido para fins de estudo, com apoio de materiais da documentação e livros.
   
 ---
 
