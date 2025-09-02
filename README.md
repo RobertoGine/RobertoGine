@@ -11,9 +11,9 @@
 ## Tecnologias do meu dia
 
 <div style="diplay: inline_block"><br/>
-<img align="center" alt="Python" src="(https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)"/>
+<img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div>
 
 <div style="diplay: inline_block"><br/>
-<img align="center" alt="Django" src="(https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)"/>
+<img align="center" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
 </div>
