@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Roberto Giné  
 
-🎓 Formado no curso **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** no centro Universitário [Braz Cubas](https://www.brazcubas.edu.br/).  
+🎓 Formado no curso **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** no centro Universitário [Braz Cubas](https://www.brazcubas.edu.br/)  
 📚 Atualmente realizando cursos complementares na [DIO.me](https://www.dio.me/)  
 👩🏻‍🔧/👩🏻‍💻 Atualmente, estou em transição de carreira para a área de Desenvolvimento de Software, buscando oportunidades para aplicar e expandir meus conhecimentos em Python, Django e desenvolvimento de sistemas.  
 💻 Focado em desenvolvimento **Python**, **Django**.  
