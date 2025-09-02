@@ -18,7 +18,7 @@
 
 ## 📌 Projetos em Destaque  
 
-- 🏗️ [Gerenciador de Estoque](#) – Sistema de estoque com Django  
+- 🏗️ [Gerenciador de Estoque](https://github.com/RobertoGine/gerenciador-de-estoque#) – Sistema de estoque com Django  
   
 ---
 
