@@ -23,9 +23,12 @@
 ## 📌 Projetos em Destaque  
 
 ### 💰 Sistema de Finanças  
-- Sistema web completo para gestão financeira pessoal, desenvolvido para organizar o controle do dia a dia: 
-- cadastro de usuários, registro de receitas e despesas, geração de relatórios e exportação para PDF. 
-- 👉 Acesse online: [sistema-financas-lozx.onrender.com](https://sistema-financas-lozx.onrender.com) - Sistema de gerenciamento financeiro com Django
+- Sistema web completo desenvolvido para **gestão financeira pessoal do
+dia a dia**, permitindo registrar receitas e despesas, acompanhar
+relatórios mensais e exportar informações para PDF.\
+Ideal como exemplo prático de aplicação Django com autenticação, CRUD e
+relatórios.
+- 👉 Acesse online: [sistema-financas-lozx.onrender.com](https://sistema-financas-lozx.onrender.com) 
 - 👉 Código-fonte:  [Sistema de Finanças](https://github.com/RobertoGine/sistema-de-finan-a-.git#)
 
 ### 🏗️ Gerenciador de Estoque  
