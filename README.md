@@ -15,28 +15,37 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)   
+![SQLite / PostgreSQL](https://img.shields.io/badge/Database-SQLite%20%7C%20PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
 ## 📌 Projetos em Destaque  
 
-- 🏗️ [Gerenciador de Estoque](https://github.com/RobertoGine/gerenciador-de-estoque#) – Sistema de estoque com Django
-- Este projeto foi desenvolvido para fins de estudo, com apoio de materiais da documentação e livros.
-  
+### 💰 Sistema de Finanças  
+- Sistema web completo para gestão financeira pessoal, desenvolvido para organizar o controle do dia a dia: 
+- cadastro de usuários, registro de receitas e despesas, geração de relatórios e exportação para PDF. 
+- 👉 Acesse online: [sistema-financas-lozx.onrender.com](https://sistema-financas-lozx.onrender.com) - Sistema de gerenciamento financeiro com Django
+- 👉 Código-fonte:  [Sistema de Finanças](https://github.com/RobertoGine/sistema-de-finan-a-.git#)
+
+### 🏗️ Gerenciador de Estoque  
+- 👉 Código-fonte:[Gerenciador de Estoque](https://github.com/RobertoGine/gerenciador-de-estoque#) – Sistema de estoque com Django
+- Este projeto foi desenvolvido para fins de estudo, com apoio de materiais da documentação e livros. 
+
 ---
 
 ## 📊 Estatísticas do GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertogine&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertogine&layout=compact&theme=radical)  
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertogine&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertogine&layout=compact&langs_count=7&theme=radical" />
+</p>
 
 ---
 
 ## 🌍 Onde me encontrar  
 
-📧 Email: robertogine.dev@gmail.com 
+📧 Email: **robertogine.dev@gmail.com**  
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-giné-59b34b26b)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/robertogineeletrotecnico?tab=achievements) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-giné-59b34b26b)  
+[![DIO Profile](https://img.shields.io/badge/-Perfil%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/robertogineeletrotecnico?tab=achievements)
