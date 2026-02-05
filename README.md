@@ -1,10 +1,11 @@
-# 👋 Olá, eu sou o Roberto Giné  
 
-🎓 Formado no curso **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** no centro Universitário [Braz Cubas](https://www.brazcubas.edu.br/)  
-📚 Atualmente realizando cursos complementares na [DIO.me](https://www.dio.me/)  
-👩🏻‍🔧/👩🏻‍💻 Atualmente, estou em transição de carreira para a área de Desenvolvimento de Software, buscando oportunidades para aplicar e expandir meus conhecimentos em Python, Django e desenvolvimento de sistemas.  
-💻 Focado em desenvolvimento **Python**, **Django**.  
-⚡ Interesse em projetos de **sistemas de gestão** e **aplicações web**  
+# 👋 Olá, eu sou o Roberto Giné  
+🎓 Formado no curso **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** pelo Centro Universitário [Braz Cubas](https://www.brazcubas.edu.br/)  
+📚 Atualmente cursando **Formação Cybersecurity Specialist** e cursos complementares na [DIO.me](https://www.dio.me/)  
+🔐 Em **transição de carreira para a área de Segurança da Informação**, com foco em **Pentest** e **Segurança Ofensiva**, buscando oportunidades para aplicar e evoluir conhecimentos em testes de intrusão, análise de vulnerabilidades e segurança de aplicações.  
+💻 Conhecimentos em **Python**, **Django**, **fundamentos de Segurança da Informação**, **Git/GitHub** e **SQL**  
+⚡ Interesse em projetos de **Pentest**, **Segurança de Aplicações Web**, **análise de vulnerabilidades** e **automação de testes de segurança**
+
 
 ---
 
